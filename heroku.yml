@@ -1,0 +1,5 @@
+build:
+  docker:
+    Don: Dockerfile
+run:
+  Don: python3 -m TeamAlwaysXSpam
