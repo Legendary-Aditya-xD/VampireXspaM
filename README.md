@@ -26,3 +26,4 @@
 
 # Credits
 * [Aditya](https://github.com/Legendary-Aditya-xD)
+* [My Telegram ID](t.me/toxic_boy_aditya_xd)
