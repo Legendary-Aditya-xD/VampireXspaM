@@ -5,13 +5,13 @@ from telethon.tl.custom import button
 from time import time
 from datetime import datetime
 
-DON_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/4cc84cabf3ee789d64ce0.jpg"
+DON_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/3b7daecab4d814cb18b71.jpg"
   
 
           
-always = "**Tᴇᴀᴍ Aʟᴡᴀʏꜱ Sᴘᴀᴍ Bᴏᴛ Iꜱ Wᴏʀᴋɪɴɢ Pᴇʀꜰᴇᴄᴛʟʏ♠️♠️**\n\n"
+always = "**VampireXspaM Iꜱ Wᴏʀᴋɪɴɢ Pᴇʀꜰᴇᴄᴛʟʏ♠️♠️**\n\n"
 
-always += f"🔥**TᴇᴀᴍAʟᴡᴀʏꜱ Sᴘᴀᴍ Sʏꜱᴛᴇᴍ**🔥\n\n"
+always += f"🔥**VampireXspaM Sᴘᴀᴍ Sʏꜱᴛᴇᴍ**🔥\n\n"
 
 always += f" **•⭕️• Pʏᴛʜᴏɴ Vᴇʀsɪᴏɴ** : `3.9.6`\n"
 
@@ -19,7 +19,7 @@ always += f" **•⭕️• Tᴇʟᴇᴛʜᴏɴ Vᴇʀsɪᴏɴ** : `{version.__v
 
 always += f" **•⭕️• Bot Vᴇʀsɪᴏɴ**  : `{alwaysversion}`\n"
 
-always += f" **•⭕️• Cʀᴇᴀᴛᴏʀ**  : [Dᴏɴ](t.me/Always_Don)\n\n"
+always += f" **•⭕️• Cʀᴇᴀᴛᴏʀ**  : [ADITYA](t.me/toxic_boy_aditya_xd)\n\n"
          
                                     
 @Don.on(events.NewMessage(pattern=".alive"))
@@ -30,7 +30,7 @@ async def alive(event):
                                   caption=always,
                                   buttons=[
         [
-        Button.url("Cᴏᴍᴍᴜɴɪᴛʏ", "https://t.me/Team_Always")
+        Button.url("Cᴏᴍᴍᴜɴɪᴛʏ", "https://t.me/chats_forever")
         ]
         ]
         )
@@ -43,7 +43,7 @@ async def alive(event):
                                   caption=always,
                                   buttons=[
         [
-        Button.url("Cᴏᴍᴍᴜɴɪᴛʏ", "https://t.me/Team_Always")
+        Button.url("Cᴏᴍᴍᴜɴɪᴛʏ", "https://t.me/chats_forever")
         ]
         ]
         )
@@ -56,7 +56,7 @@ async def alive(event):
                                   caption=always,
                                   buttons=[
         [
-        Button.url("Cᴏᴍᴍᴜɴɪᴛʏ", "https://t.me/Team_Always")
+        Button.url("Cᴏᴍᴍᴜɴɪᴛʏ", "https://t.me/chats_forever")
         ]
         ]
         )
@@ -69,7 +69,7 @@ async def alive(event):
                                   caption=always,
                                   buttons=[
         [
-        Button.url("Cᴏᴍᴍᴜɴɪᴛʏ", "https://t.me/Team_Always")
+        Button.url("Cᴏᴍᴍᴜɴɪᴛʏ", "https://t.me/chats_forever")
         ]
         ]
         )
@@ -82,7 +82,7 @@ async def alive(event):
                                   caption=always,
                                   buttons=[
         [
-        Button.url("Cᴏᴍᴍᴜɴɪᴛʏ", "https://t.me/Team_Always")
+        Button.url("Cᴏᴍᴍᴜɴɪᴛʏ", "https://t.me/chats_forever")
         ]
         ]
         )
@@ -95,7 +95,7 @@ async def alive(event):
                                   caption=always,
                                   buttons=[
         [
-        Button.url("Cᴏᴍᴍᴜɴɪᴛʏ", "https://t.me/Team_Always")
+        Button.url("Cᴏᴍᴍᴜɴɪᴛʏ", "https://t.me/chats_forever")
         ]
         ]
         )
@@ -121,7 +121,7 @@ async def alive(event):
                                   caption=always,
                                   buttons=[
         [
-        Button.url("Cᴏᴍᴍᴜɴɪᴛʏ", "https://t.me/Team_Always")
+        Button.url("Cᴏᴍᴍᴜɴɪᴛʏ", "https://t.me/chats_forever")
         ]
         ]
         )
@@ -135,7 +135,7 @@ async def alive(event):
                                   caption=always,
                                   buttons=[
         [
-        Button.url("Cᴏᴍᴍᴜɴɪᴛʏ", "https://t.me/Team_Always")
+        Button.url("Cᴏᴍᴍᴜɴɪᴛʏ", "https://t.me/chats_forever")
         ]
         ]
         )
@@ -148,7 +148,7 @@ async def alive(event):
                                   caption=always,
                                   buttons=[
         [
-        Button.url("Cᴏᴍᴍᴜɴɪᴛʏ", "https://t.me/Team_Always")
+        Button.url("Cᴏᴍᴍᴜɴɪᴛʏ", "https://t.me/chats_forever")
         ]
         ]
         )
