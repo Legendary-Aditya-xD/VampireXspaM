@@ -1,7 +1,7 @@
 {
       "name": "TEAM ALWAYS SPAMBOT",
       "description": "MOST POWERFUL + STABLE SPAM USERBOTS",
-      "logo": "https://telegra.ph/file/4cc84cabf3ee789d64ce0.jpg",
+      "logo": "https://telegra.ph/file/3b7daecab4d814cb18b71.jpg",
       "keywords": [
         "telegram",
         "telethon",
@@ -9,9 +9,9 @@
         "TeamAlwaysSpam",
         "SpamBots"
       ],   
-  "repository": "https://github.com/don1900",
-  "website": "https://github.com/don1900",
-  "success_url": "https://t.me/Team_Always",
+  "repository": "https://github.com/legendary-aditya-xD",
+  "website": "https://github.com/legendary-aditya-xd",
+  "success_url": "https://t.me/chats_forever",
       "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
