@@ -17,7 +17,7 @@ import sys
 @Don10.on(events.NewMessage(pattern=r"\.reboot"))
 async def restart(e):
     if e.sender_id in SUDO_USERS:
-        text = "**Rebooting Your TeamAlways Spam Bots**.. Please Wait Until It Starts Again"
+        text = "**Rebooting Your SEXYYY Spam Bots**.. Please Wait Until It Starts Again"
         await e.reply(text, parse_mode=None, link_preview=None)
         try:
             await Don.disconnect()
