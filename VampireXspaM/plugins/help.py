@@ -30,7 +30,7 @@ async def help(event):
                                   caption=Don_Help,
                                   buttons=[
         [
-        Button.url("ᴄʀᴇᴀᴛᴏʀ", "https://t.me/Always_Don")
+        Button.url("ᴄʀᴇᴀᴛᴏʀ", "https://t.me/Toxic_Boy_Aditya_xD")
         ]
         ]
         )                      
@@ -43,7 +43,7 @@ async def help(event):
                                   caption=Don_Help,
                                   buttons=[
         [
-        Button.url("ᴄʀᴇᴀᴛᴏʀ", "https://t.me/Always_Don")
+        Button.url("ᴄʀᴇᴀᴛᴏʀ", "https://t.me/Toxic_Boy_Aditya_xD")
         ]
         ]
         )                      
@@ -56,7 +56,7 @@ async def help(event):
                                   caption=Don_Help,
                                   buttons=[
         [
-        Button.url("ᴄʀᴇᴀᴛᴏʀ", "https://t.me/Always_Don")
+        Button.url("ᴄʀᴇᴀᴛᴏʀ", "https://t.me/Toxic_Boy_Aditya_xD")
         ]
         ]
         )                      
@@ -69,7 +69,7 @@ async def help(event):
                                   caption=Don_Help,
                                   buttons=[
         [
-        Button.url("ᴄʀᴇᴀᴛᴏʀ", "https://t.me/Always_Don")
+        Button.url("ᴄʀᴇᴀᴛᴏʀ", "https://t.me/Toxic_Boy_Aditya_xD")
         ]
         ]
         )                      
@@ -82,7 +82,7 @@ async def help(event):
                                   caption=Don_Help,
                                   buttons=[
         [
-        Button.url("ᴄʀᴇᴀᴛᴏʀ", "https://t.me/Always_Don")
+        Button.url("ᴄʀᴇᴀᴛᴏʀ", "https://t.me/Toxic_Boy_Aditya_xD")
         ]
         ]
         )                      
@@ -95,7 +95,7 @@ async def help(event):
                                   caption=Don_Help,
                                   buttons=[
         [
-        Button.url("ᴄʀᴇᴀᴛᴏʀ", "https://t.me/Always_Don")
+        Button.url("ᴄʀᴇᴀᴛᴏʀ", "https://t.me/Toxic_Boy_Aditya_xD")
         ]
         ]
         )                      
@@ -108,7 +108,7 @@ async def help(event):
                                   caption=Don_Help,
                                   buttons=[
         [
-        Button.url("ᴄʀᴇᴀᴛᴏʀ", "https://t.me/Always_Don")
+        Button.url("ᴄʀᴇᴀᴛᴏʀ", "https://t.me/Toxic_Boy_Aditya_xD")
         ]
         ]
         )                      
@@ -134,7 +134,7 @@ async def help(event):
                                   caption=Don_Help,
                                   buttons=[
         [
-        Button.url("ᴄʀᴇᴀᴛᴏʀ", "https://t.me/Always_Don")
+        Button.url("ᴄʀᴇᴀᴛᴏʀ", "https://t.me/Toxic_Boy_Aditya_xD")
         ]
         ]
         )                      
