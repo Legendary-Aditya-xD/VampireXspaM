@@ -21,9 +21,8 @@
 
 
 # Support & Updates
-* [Channel](https://t.me/Team_Always)
-* [Support Group](https://t.me/TheFriends_Zone)
+* [Channel](https://t.me/chats_forever)
+* [Support Group](https://t.me/chats_forever)
 
 # Credits
-* [Don](https://github.com/don1900)
 * [Aditya](https://github.com/Legendary-Aditya-xD)
