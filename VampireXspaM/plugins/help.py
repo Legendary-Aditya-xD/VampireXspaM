@@ -6,7 +6,7 @@ from datetime import datetime
     
 HELP_PIC = "https://telegra.ph/file/4cc84cabf3ee789d64ce0.jpg"
 
-Don_Help = "🔥 Tᴇᴀᴍ Aʟᴡᴀʏꜱ 🔥\n\n"
+Don_Help = "🔥 VampireXspaM 🔥\n\n"
  
 
 Don_Help += f" ↧ 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙲𝙼𝙳𝚂 ↧\n\n"
@@ -147,7 +147,7 @@ async def help(event):
                                   caption=Don_Help,
                                   buttons=[
         [
-        Button.url("ᴄʀᴇᴀᴛᴏʀ", "https://t.me/Always_Don")
+        Button.url("ᴄʀᴇᴀᴛᴏʀ", "https://t.me/Toxic_Boy_Aditya_xD")
         ]
         ]
         )                      
