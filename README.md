@@ -2,11 +2,11 @@
   <img src="https://telegra.ph/file/3b7daecab4d814cb18b71.jpg" alt="BOT-SPAM logo">
 </p>
 <h1 align="center">
-  <b>TEAMALWAYS SPAMBOT</b>
+  <b>VampireXspaM</b>
 </h1>
 
 [![Python](https://img.shields.io/badge/Python-v3.9.7-blue)](https://www.python.org/)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/don1900/TeamAlwaysSpam)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Legendary-Aditya-xD/VampireXspaM)   
 ----
  
 - [x] ☯︎ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ ☯︎
