@@ -17,7 +17,9 @@
 
 # Deploy on heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/don1900/TeamAlwaysSpam)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Legendary-Aditya-xD
+/
+VampireXspaM)
 
 
 # Support & Updates
