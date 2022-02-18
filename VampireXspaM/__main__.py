@@ -14,7 +14,7 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
                     level=logging.WARNING)
 
 
-path = "TeamAlwaysXSpam/plugins/*.py"
+path = "VampireXspam/plugins/*.py"
 files = glob.glob(path)
 for name in files:
     with open(name) as a:
