@@ -7,13 +7,13 @@ import inspect
 import re
 
 def load_plugins(plugin_name):
-    path = Path(f"TeamAlwaysXSpam/plugins/{plugin_name}.py")
+    path = Path(f"VampireXspaM/plugins/{plugin_name}.py")
     name = "TeamAlwaysXSpam.plugins.{}".format(plugin_name)
     spec = importlib.util.spec_from_file_location(name, path)
     load = importlib.util.module_from_spec(spec)
     load.logger = logging.getLogger(plugin_name)
     spec.loader.exec_module(load)
-    sys.modules["TeamAlwaysXSpam.plugins." + plugin_name] = load
+    sys.modules["VampireXspaM.plugins." + plugin_name] = load
     print("TeamAlways X has Imported " + plugin_name)
 
 async def edit_or_reply(event, text):
